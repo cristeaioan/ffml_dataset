@@ -29,7 +29,7 @@ Foods were introduced into the database at the dates given below (YYYY.MM.DD):
 ## License
 MIT License
 
-Copyright (c) 2018 Fülöp Bettina-Elena, Cristea Ioan
+Copyright (c) 2019 Fülöp Bettina-Elena, Cristea Ioan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
