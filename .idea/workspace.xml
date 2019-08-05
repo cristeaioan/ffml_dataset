@@ -2,58 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED POTATOES WITH BUTTER AND DILL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED POTATOES WITH BUTTER AND DILL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED POTATOES WITH BUTTER AND DILL/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/BAKED POTATOES WITH BUTTER AND DILL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/01.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BIRTHDAY CAKES/WHISKEY CAKE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BIRTHDAY CAKES/WHISKEY CAKE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BIRTHDAY CAKES/WHISKEY CAKE/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BIRTHDAY CAKES/WHISKEY CAKE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/DIPLOMAT CAKE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/DIPLOMAT CAKE/02.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/DIPLOMAT CAKE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MACARONI PUDDING/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MACARONI PUDDING/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MACARONI PUDDING/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MACARONI PUDDING/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/04.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/04.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DUCHESSE POTATOES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DUCHESSE POTATOES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DUCHESSE POTATOES/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DUCHESSE POTATOES/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/FRENCH FRIES WITH DRIED VEGETABLE POWDER/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/FRENCH FRIES WITH DRIED VEGETABLE POWDER/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/FRENCH FRIES WITH DRIED VEGETABLE POWDER/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED SPICE WINGS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED SPICE WINGS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED SPICE WINGS/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/GRILLED SPICE WINGS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/ROAST CHICKEN WITH BUTTER AND BASIL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/ROAST CHICKEN WITH BUTTER AND BASIL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/ROAST CHICKEN WITH BUTTER AND BASIL/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/ROAST CHICKEN WITH BUTTER AND BASIL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TORTELLINI WITH MUSHROOM AND TOMATO SAUCE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TORTELLINI WITH MUSHROOM AND TOMATO SAUCE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TORTELLINI WITH MUSHROOM AND TOMATO SAUCE/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/TORTELLINI WITH MUSHROOM AND TOMATO SAUCE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TURKEY LIVER MEATLOAF/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TURKEY LIVER MEATLOAF/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TURKEY LIVER MEATLOAF/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/TURKEY LIVER MEATLOAF/Thumbs.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -84,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="323" />
+              <first_editor relative-caret-position="312">
+                <caret line="3" column="925" selection-start-line="3" selection-start-column="925" selection-end-line="3" selection-end-column="925" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,11 +70,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="39" />
-    <option name="width" value="2553" />
-    <option name="height" value="1362" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2552" />
+    <option name="y" value="232" />
+    <option name="width" value="1936" />
+    <option name="height" value="1186" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,7 +132,8 @@
       <workItem from="1563372980808" duration="734000" />
       <workItem from="1563544550905" duration="5009000" />
       <workItem from="1563605685426" duration="637000" />
-      <workItem from="1564032242690" duration="816000" />
+      <workItem from="1564032242690" duration="908000" />
+      <workItem from="1564984905210" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -210,17 +170,31 @@
       <option name="project" value="LOCAL" />
       <updated>1563605706287</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new types of foods (Baked Potatoes With Butter And Dill, Whiskey Cake, Diplomat Cake, Macaroni Pudding, Semolina Pudding With Raspberry, Tiramisu, Duchesse Potatoes, French Fries With Dried Vegetable Powder, Grilled Spice Wings, Roast Chicken With Butter And Basil, Tortellini With Mushroom And Tomato Sauce, Turkey Liver Meatloaf)">
+      <created>1564033084936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564033084936</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated the number of images">
+      <created>1564033144009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564033144009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7196000" />
+    <option name="totallyTimeSpent" value="7878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="39" width="2553" height="1362" extended-state="0" />
+    <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13999198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -252,7 +226,9 @@
     <MESSAGE value="Cropped the images &amp; renamed the files" />
     <MESSAGE value="Added new types of foods (Bean Soup With Smoked Pork Meat, Break Pakora, Curry Rice With Yoghurt, Dosa With Curry Mashed Potatoes, Grilled Turkey With Grape Sauce, Indian Curry, Masala Dosa, Milkshake Desert, Pakora, Plum Pie, Roasted Pig, Samosa With Vegetables, Steam Mussels In White Wine Broth) and created a license" />
     <MESSAGE value="Updated the year on the license" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the year on the license" />
+    <MESSAGE value="Added new types of foods (Baked Potatoes With Butter And Dill, Whiskey Cake, Diplomat Cake, Macaroni Pudding, Semolina Pudding With Raspberry, Tiramisu, Duchesse Potatoes, French Fries With Dried Vegetable Powder, Grilled Spice Wings, Roast Chicken With Butter And Basil, Tortellini With Mushroom And Tomato Sauce, Turkey Liver Meatloaf)" />
+    <MESSAGE value="Updated the number of images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the number of images" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -272,8 +248,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="323" />
+          <first_editor relative-caret-position="312">
+            <caret line="3" column="925" selection-start-line="3" selection-start-column="925" selection-end-line="3" selection-end-column="925" />
           </first_editor>
           <second_editor />
         </state>
