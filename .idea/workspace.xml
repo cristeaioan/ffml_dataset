@@ -1,20 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED POTATOES WITH BUTTER AND DILL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/Thumbs.db" afterDir="false" />
+    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)">
+      <change afterPath="$PROJECT_DIR$/FOOD/ADANA KEBAP/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/ADANA KEBAP/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/ADANA KEBAP/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED PASTA WITH TUNA/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED PASTA WITH TUNA/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED PASTA WITH TUNA/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN KEBAP/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN KEBAP/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN KEBAP/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN STEW/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN STEW/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN STEW/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN STEW/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BACLAVA/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BACLAVA/02.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BIRTHDAY CAKES/WHISKEY CAKE/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE ECLAIR/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE ECLAIR/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE ECLAIR/03.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/DIPLOMAT CAKE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MACARONI PUDDING/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SEMOLINA PUDDING WITH RASPBERRY/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TIRAMISU/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DUCHESSE POTATOES/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED SPICE WINGS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/ROAST CHICKEN WITH BUTTER AND BASIL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TORTELLINI WITH MUSHROOM AND TOMATO SAUCE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/TURKEY LIVER MEATLOAF/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/GöZLEME (TURKISH LAYERED PIE)/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/GöZLEME (TURKISH LAYERED PIE)/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/GöZLEME (TURKISH LAYERED PIE)/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/HOMEMADE CHOCOLATE WITH RUM AND COCONUT BALLS/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/HOMEMADE CHOCOLATE WITH RUM AND COCONUT BALLS/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MOLDAVIAN PIE WITH CHEESE/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MOLDAVIAN PIE WITH CHEESE/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MOLDAVIAN PIE WITH CHEESE/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MOLDAVIAN PIE WITH CHEESE/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RAHAT LOKUM (TURKISH DELIGHT)/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RAHAT LOKUM (TURKISH DELIGHT)/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RAHAT LOKUM (TURKISH DELIGHT)/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RAHAT LOKUM (TURKISH DELIGHT)/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SUBEREK (TURKISH PIE)/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SUBEREK (TURKISH PIE)/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/SUBEREK (TURKISH PIE)/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TURKISH GUMMY BALLS/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/TURKISH GUMMY BALLS/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG WITH VEGETABLE POWDER/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG WITH VEGETABLE POWDER/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG WITH VEGETABLE POWDER/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/FRIED EGG/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA DIAVOLA/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA DIAVOLA/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA DIAVOLA/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA PROSCIUTTO E FUNGHI/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA PROSCIUTTO E FUNGHI/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/PIZZA PROSCIUTTO E FUNGHI/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/POLENTA (MAMALIGA)/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/POLENTA (MAMALIGA)/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/POLENTA (MAMALIGA)/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH BACON/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH BACON/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH BACON/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/ZUCCHINI BOATS STUFFED WITH PORK/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/ZUCCHINI BOATS STUFFED WITH PORK/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/ZUCCHINI BOATS STUFFED WITH PORK/03.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/CORN ON THE COBB/01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI(HUNGARIAN TRADITIONAL DESERT)/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI (HUNGARIAN TRADITIONAL DESERT)/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI(HUNGARIAN TRADITIONAL DESERT)/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI (HUNGARIAN TRADITIONAL DESERT)/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI(HUNGARIAN TRADITIONAL DESERT)/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/DESERTS/GOMBOTI (HUNGARIAN TRADITIONAL DESERT)/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/FRENCH FRIES WITH DRIED VEGETABLE POWDER/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/MICI (BEEF &amp; PORK MEAT)/Thumbs.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +87,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
@@ -39,12 +96,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="3" column="925" selection-start-line="3" selection-start-column="925" selection-end-line="3" selection-end-column="925" />
+              <first_editor relative-caret-position="211">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,7 +113,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Roaste</find>
+      <find>,</find>
     </findStrings>
+    <replaceStrings>
+      <replace>;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,6 +148,672 @@
             <path>
               <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="food_database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="ADANA KEBAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BAKED PASTA WITH TUNA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BAKED POTATOES WITH BUTTER AND DILL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BANATEAN SALAMI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BASMATI RICE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BEAN SOUP WITH SMOKED PORK MEAT IN BREAD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="BREAD PAKORA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CHICKEN KEBAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CHICKEN STEW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CHICKEN STEW WITH POTATOES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CHILLI SAUCE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CHOPPED PORK MEAT FUSILLI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CORN ON THE COBB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CORNETTI RIGATTI WITH SOURCREAM , TENDERLOIN, CORN AND CUCUMBER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CRISPY CHICKEN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="CURRY RICE WITH YOGHURT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="APPLE AND MERINGUE CAKE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="BACLAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="BIRTHDAY CAKES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="BISCUIT CAKE WITH WHIPPED CREAM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="CHOCOLATE ECLAIR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="CHRISTMAS CAKE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="COCONUT CAKE WITH WHIPPED CREAM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="GOMBOTI (HUNGARIAN TRADITIONAL DESERT)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="GöZLEME (TURKISH LAYERED PIE)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEMADE CHOCOLATE WITH RUM AND COCONUT BALLS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEMADE GOMBOTI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="LOLLIPOPS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="MACARONI PUDDING" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="MILKSHAKE DESERT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="MOLDAVIAN PIE WITH CHEESE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="PLUM PIE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="PURPLE SWEET POTATO ICECREAM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="RAHAT LOKUM (TURKISH DELIGHT)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="SEMOLINA PUDDING WITH RASPBERRY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="SIMPLE CUPCAKES WITH SUGAR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="SOFT CAKE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="STRAWBERRY MOUSSE CAKE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="SUBEREK (TURKISH PIE)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="TIRAMISU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DESERTS" type="462c0819:PsiDirectoryNode" />
+              <item name="TURKISH GUMMY BALLS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DOSA WITH CURRY MASHED POTATOES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DUCHESSE POTATOES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="DUCK STEW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FISH FINGERS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRENCH FRIES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRENCH FRIES WITH DRIED VEGETABLE POWDER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRIED BLACK SEA MUSSELS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRIED CHICKEN DRUMSTICK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRIED EGG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="FRIED EGG WITH VEGETABLE POWDER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GREEN LENTILS WITH SMOKED PORK MEAT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GREEN LENTILS WITH SMOKED PORK SAUSAGES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED CHICKEN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED CHICKEN BREAST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED CHICKEN WINGS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED PORK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED PORK CHOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED PORK MEAT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED SPICE WINGS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="GRILLED TURKEY WITH GRAPE SAUCE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEMADE CRISPY CHICKEN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="INDIAN CURRY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="KFC CHICKEN DRUMSTICKS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="KFC CRISPY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="KFC HOLIDAY BURGER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="KFC VEGAN BURGER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="KFC WINGS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="LINGUINI WITH MUSHROOM AND TOMATOE SAUCE AND SALAMI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="MASALA DOSA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="MASHED POTATOES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="MEXICAN VEGETABLES WITH BUTTER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="MICI (BEEF &amp; PORK MEAT)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="OMELETTE WITH SALAMI AND CHEESE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="PAKORA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="PIZZA DIAVOLA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="PIZZA PROSCIUTTO E FUNGHI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="POLENTA (MAMALIGA)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="PORK MEAT TORTOISE WITH CHEESE AND RICE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="RISOTTO WITH CHICKEN GIZZARDS AND HEARTHS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="ROAST CHICKEN WITH BUTTER AND BASIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="ROASTED PIG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SALADS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SALADS" type="462c0819:PsiDirectoryNode" />
+              <item name="BEETROOT AND APPLE SALAD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SALADS" type="462c0819:PsiDirectoryNode" />
+              <item name="CABBAGE SALAD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SALADS" type="462c0819:PsiDirectoryNode" />
+              <item name="TOMATOES AND ONION LEAVES SALAD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SAMOSA WITH VEGETABLES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SKEWER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SMOKED LARD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
+              <item name="CHRUP PAKI WITH BACON" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SOUPS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SOUPS" type="462c0819:PsiDirectoryNode" />
+              <item name="RADAUTEANA SOUP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SOUPS" type="462c0819:PsiDirectoryNode" />
+              <item name="STUFFED PEPPERS AND SMOKED PORK MEAT SOUP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="SPINACH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="STEAM MUSSELS IN WHITE WINE BROTH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="STEAMED FISH (PASTRAV)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="STRUDEL WITH SALTED CHEESE AND DILL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="TORTELLINI WITH MUSHROOM AND TOMATO SAUCE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="TURKEY LIVER MEATLOAF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="VEGETABLE CURRY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="VEGETABLE CURRY AND BASMATI RICE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="ZUCCHINI BOATS STUFFED WITH PORK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food_database" type="462c0819:PsiDirectoryNode" />
+              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
+              <item name="ZUCCHINI SOUP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +860,8 @@
       <workItem from="1563544550905" duration="5009000" />
       <workItem from="1563605685426" duration="637000" />
       <workItem from="1564032242690" duration="908000" />
-      <workItem from="1564984905210" duration="590000" />
+      <workItem from="1564984905210" duration="807000" />
+      <workItem from="1565157726820" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -184,17 +912,24 @@
       <option name="project" value="LOCAL" />
       <updated>1564033144009</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)">
+      <created>1564985592345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564985592345</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7878000" />
+    <option name="totallyTimeSpent" value="9172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,7 +963,8 @@
     <MESSAGE value="Updated the year on the license" />
     <MESSAGE value="Added new types of foods (Baked Potatoes With Butter And Dill, Whiskey Cake, Diplomat Cake, Macaroni Pudding, Semolina Pudding With Raspberry, Tiramisu, Duchesse Potatoes, French Fries With Dried Vegetable Powder, Grilled Spice Wings, Roast Chicken With Butter And Basil, Tortellini With Mushroom And Tomato Sauce, Turkey Liver Meatloaf)" />
     <MESSAGE value="Updated the number of images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the number of images" />
+    <MESSAGE value="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -238,20 +974,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="211">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="3" column="925" selection-start-line="3" selection-start-column="925" selection-end-line="3" selection-end-column="925" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
