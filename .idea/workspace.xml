@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH SALT/01.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH SALT/02.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH SALT/03.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -34,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
-                <caret line="3" column="2889" selection-start-line="3" selection-start-column="2889" selection-end-line="3" selection-end-column="2910" />
+              <first_editor relative-caret-position="336">
+                <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +102,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +145,8 @@
       <workItem from="1564032242690" duration="908000" />
       <workItem from="1564984905210" duration="807000" />
       <workItem from="1565157726820" duration="1861000" />
-      <workItem from="1565242569343" duration="292000" />
+      <workItem from="1565242569343" duration="416000" />
+      <workItem from="1565337873365" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -213,16 +211,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565158986966</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added new types of foods (Chrup Paki With Salt)">
+      <created>1565242963886</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565242963886</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10248000" />
+    <option name="totallyTimeSpent" value="11025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
+    <frame x="2552" y="232" width="1936" height="1186" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,7 +264,8 @@
     <MESSAGE value="Updated the number of images" />
     <MESSAGE value="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)" />
     <MESSAGE value="Added new types of foods (Adana Kebap; Baclava; Baked Pasta With Tuna; Chicken Kebap; Chicken Stew; Chocolate Eclair; Fried Egg; Fried Egg With Vegetable Powder; Gözleme (Turkish Layered Pie); Homemade Chocolate With Rum And Coconut Balls; Moldavian Pie With Cheese; Pizza Diavola, Pizza Prosciutto E Funghi; Polenta (Mamaliga); Rahat Lokum (Turkish Delight); Chrup Paki With Bacon; Spinach; Suberek (Turkish Pie); Turkish Gummy Balls; Zucchini Boats Stuffed With Pork)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Adana Kebap; Baclava; Baked Pasta With Tuna; Chicken Kebap; Chicken Stew; Chocolate Eclair; Fried Egg; Fried Egg With Vegetable Powder; Gözleme (Turkish Layered Pie); Homemade Chocolate With Rum And Coconut Balls; Moldavian Pie With Cheese; Pizza Diavola, Pizza Prosciutto E Funghi; Polenta (Mamaliga); Rahat Lokum (Turkish Delight); Chrup Paki With Bacon; Spinach; Suberek (Turkish Pie); Turkish Gummy Balls; Zucchini Boats Stuffed With Pork)" />
+    <MESSAGE value="Added new types of foods (Chrup Paki With Salt)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Chrup Paki With Salt)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -278,8 +285,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="3" column="2889" selection-start-line="3" selection-start-column="2889" selection-end-line="3" selection-end-column="2910" />
+          <first_editor relative-caret-position="336">
+            <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
