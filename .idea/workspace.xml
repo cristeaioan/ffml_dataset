@@ -2,130 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (Chrup Paki With Salt)">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED STUFFED EGGPLANT WITH PROSCIUTTO AND MUSHROOMS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED STUFFED EGGPLANT WITH PROSCIUTTO AND MUSHROOMS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED STUFFED EGGPLANT WITH PROSCIUTTO AND MUSHROOMS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED STUFFED EGGPLANT WITH PROSCIUTTO AND MUSHROOMS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE DRUMSTICKS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE DRUMSTICKS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE DRUMSTICKS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE DRUMSTICKS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE SAUCE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE SAUCE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE SAUCE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE SAUCE/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE SAUCE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE WINGS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE WINGS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE WINGS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BARBEQUE WINGS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CARP ROE SALAD/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CARP ROE SALAD/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CARP ROE SALAD/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CARP ROE SALAD/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN FAJITAS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN FAJITAS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN FAJITAS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CHICKEN FAJITAS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREPES WITH SWEET URDA/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREPES WITH SWEET URDA/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREPES WITH SWEET URDA/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREPES WITH SWEET URDA/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/7 DAY's CROISSANT WITH SPUMANTE FILLING/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/7 DAY's CROISSANT WITH SPUMANTE FILLING/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/7 DAY's CROISSANT WITH SPUMANTE FILLING/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/7 DAY's CROISSANT WITH SPUMANTE FILLING/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BEE HONEY CAKE SHEETS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BEE HONEY CAKE SHEETS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BEE HONEY CAKE SHEETS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/BEE HONEY CAKE SHEETS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHIPICAO CROISSANT WITH COCOA FILLING/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHIPICAO CROISSANT WITH COCOA FILLING/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHIPICAO CROISSANT WITH COCOA FILLING/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHIPICAO CROISSANT WITH COCOA FILLING/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/LAMAITA CAKE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/LAMAITA CAKE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/LAMAITA CAKE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/LAMAITA CAKE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM CONE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM CONE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM CONE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM CONE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM SANDWICH/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM SANDWICH/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM SANDWICH/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/OREO ICE CREAM SANDWICH/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/PRAJITURA DESTEAPTA WITH VANILLA/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/PRAJITURA DESTEAPTA WITH VANILLA/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/PRAJITURA DESTEAPTA WITH VANILLA/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/PRAJITURA DESTEAPTA WITH VANILLA/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MASALA RAGU SAUCE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MASALA RAGU SAUCE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MASALA RAGU SAUCE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MASALA RAGU SAUCE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE RAGU/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE RAGU/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE RAGU/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE RAGU/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE WITH MASALA RAGU/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE WITH MASALA RAGU/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE WITH MASALA RAGU/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PENNE WITH MASALA RAGU/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PITA BREAD/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PITA BREAD/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PITA BREAD/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/PITA BREAD/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALTED CHEESE WITH HERBS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALTED CHEESE WITH HERBS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALTED CHEESE WITH HERBS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALTED CHEESE WITH HERBS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SCRAMBLED EGGS WITH SALAMI/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SCRAMBLED EGGS WITH SALAMI/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SCRAMBLED EGGS WITH SALAMI/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SCRAMBLED EGGS WITH SALAMI/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SEASONED GRILLED PORK/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SEASONED GRILLED PORK/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SEASONED GRILLED PORK/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SEASONED GRILLED PORK/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED BISCUITS WITH SEEDS AND CHIVES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED BISCUITS WITH SEEDS AND CHIVES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED BISCUITS WITH SEEDS AND CHIVES/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED BISCUITS WITH SEEDS AND CHIVES/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED POTATO CHIPS WITH YOGURT &amp; HERBS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED POTATO CHIPS WITH YOGURT &amp; HERBS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED POTATO CHIPS WITH YOGURT &amp; HERBS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED POTATO CHIPS WITH YOGURT &amp; HERBS/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/BAKED POTATO CHIPS WITH YOGURT &amp; HERBS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/CHRUP PAKI WITH CHEESE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COCOA WAFERS CUBES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COCOA WAFERS CUBES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COCOA WAFERS CUBES/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COCOA WAFERS CUBES/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POM-BAR WITH CHEESE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POM-BAR WITH CHEESE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POM-BAR WITH CHEESE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POM-BAR WITH CHEESE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH CHEESE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH CHEESE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH CHEESE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH CHEESE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH SOURCREAM &amp; ONION/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH SOURCREAM &amp; ONION/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH SOURCREAM &amp; ONION/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/RIFFLED POTATO CHIPS WITH SOURCREAM &amp; ONION/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE SPRINKLED WITH  CHEESE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE SPRINKLED WITH  CHEESE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE SPRINKLED WITH  CHEESE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE SPRINKLED WITH  CHEESE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SPINACH AND RICOTTA TORTELLONI IN TOMATO SAUCE/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/03.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/03.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,11 +36,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="552">
+                <caret line="26" column="555" selection-start-line="26" selection-start-column="546" selection-end-line="26" selection-end-column="555" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -202,20 +109,6 @@
               <item name="FOOD" type="462c0819:PsiDirectoryNode" />
               <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-              <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
-              <item name="CEREALS WITH SUGAR AND SOUR CHERRY" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-              <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
-              <item name="CHRUP PAKI WITH CHEESE" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -267,7 +160,9 @@
       <workItem from="1565337873365" duration="653000" />
       <workItem from="1566194947136" duration="103000" />
       <workItem from="1566202030508" duration="1967000" />
-      <workItem from="1567068562111" duration="1227000" />
+      <workItem from="1567068562111" duration="1566000" />
+      <workItem from="1567075719100" duration="34000" />
+      <workItem from="1567086232052" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -339,17 +234,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565242963886</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)">
+      <created>1567075371414</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567075371414</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14388000" />
+    <option name="totallyTimeSpent" value="15905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17270789" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,7 +288,8 @@
     <MESSAGE value="Added new types of foods (Assorted Salad With Dill; Basmati Rice; Beetroot And Apple Salad; Chicken Stew With Potatoes; Cornetii Rigatii With Sourcream, Tenderloin, Corn And Cucumber; Fish Fingers; Grilled Chicken Breast; Grilled Chicken Wings; Grilled Pork; Homemade Gomboti; KFC Holiday Burger; KFC Vegan Burger; Mexican Vegetables With Butter; Mici (Beef &amp; Pork Meat); Omelette With Salami And Cheese; Purple Sweet Potato Icecream; Skewer; Steamed Fish (Pastrav); Vegetable Curry; Vegetable Curry And Basmati Rice; Zucchini Soup)" />
     <MESSAGE value="Added new types of foods (Adana Kebap; Baclava; Baked Pasta With Tuna; Chicken Kebap; Chicken Stew; Chocolate Eclair; Fried Egg; Fried Egg With Vegetable Powder; Gözleme (Turkish Layered Pie); Homemade Chocolate With Rum And Coconut Balls; Moldavian Pie With Cheese; Pizza Diavola, Pizza Prosciutto E Funghi; Polenta (Mamaliga); Rahat Lokum (Turkish Delight); Chrup Paki With Bacon; Spinach; Suberek (Turkish Pie); Turkish Gummy Balls; Zucchini Boats Stuffed With Pork)" />
     <MESSAGE value="Added new types of foods (Chrup Paki With Salt)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Chrup Paki With Salt)" />
+    <MESSAGE value="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -396,20 +299,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="3" column="3708" selection-start-line="3" selection-start-column="3708" selection-end-line="3" selection-end-column="3708" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="552">
+            <caret line="26" column="555" selection-start-line="26" selection-start-column="546" selection-end-line="26" selection-end-column="555" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
