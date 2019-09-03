@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (Chrup Paki With Salt)">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CHICKEN SCHNITZEL WITH BASIL/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/CREAMY RANCH CHICKEN PASTA/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CREMES/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MORTADELLA BOLOGNA IGP WITH PISTACHIOS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SALADS/ASSORTED SALAD WITH YELLOW CHERRY TOMATOES/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH DILL/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/FOOD/SNACKS/POTATO CHIPS WITH SOURCREAM AND ONIONS/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="26" column="555" selection-start-line="26" selection-start-column="546" selection-end-line="26" selection-end-column="555" />
+              <first_editor relative-caret-position="384">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,7 +141,7 @@
       <workItem from="1566202030508" duration="1967000" />
       <workItem from="1567068562111" duration="1566000" />
       <workItem from="1567075719100" duration="34000" />
-      <workItem from="1567086232052" duration="1144000" />
+      <workItem from="1567086232052" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -241,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567075371414</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added new types of foods (Assorted Salad With Yellow Cherry Tomatoes; Baked Chicken Schnitzel With Basil; Creamy Ranch Chicken Pasta; Cremes; Kinder Ice Cream Sandwich; Mortadella Bologna IGP With Pistachios; Snickers Ice Cream)">
+      <created>1567143860708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567143860708</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15905000" />
+    <option name="totallyTimeSpent" value="15996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
@@ -289,7 +275,8 @@
     <MESSAGE value="Added new types of foods (Adana Kebap; Baclava; Baked Pasta With Tuna; Chicken Kebap; Chicken Stew; Chocolate Eclair; Fried Egg; Fried Egg With Vegetable Powder; Gözleme (Turkish Layered Pie); Homemade Chocolate With Rum And Coconut Balls; Moldavian Pie With Cheese; Pizza Diavola, Pizza Prosciutto E Funghi; Polenta (Mamaliga); Rahat Lokum (Turkish Delight); Chrup Paki With Bacon; Spinach; Suberek (Turkish Pie); Turkish Gummy Balls; Zucchini Boats Stuffed With Pork)" />
     <MESSAGE value="Added new types of foods (Chrup Paki With Salt)" />
     <MESSAGE value="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)" />
+    <MESSAGE value="Added new types of foods (Assorted Salad With Yellow Cherry Tomatoes; Baked Chicken Schnitzel With Basil; Creamy Ranch Chicken Pasta; Cremes; Kinder Ice Cream Sandwich; Mortadella Bologna IGP With Pistachios; Snickers Ice Cream)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Assorted Salad With Yellow Cherry Tomatoes; Baked Chicken Schnitzel With Basil; Creamy Ranch Chicken Pasta; Cremes; Kinder Ice Cream Sandwich; Mortadella Bologna IGP With Pistachios; Snickers Ice Cream)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -309,8 +296,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="26" column="555" selection-start-line="26" selection-start-column="546" selection-end-line="26" selection-end-column="555" />
+          <first_editor relative-caret-position="384">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
