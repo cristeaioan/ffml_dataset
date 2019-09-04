@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="" />
+    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,23 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/HTML/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="29" column="105" selection-start-line="29" selection-start-column="105" selection-end-line="29" selection-end-column="105" />
+              <folding>
+                <element signature="e#317#345#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,6 +36,7 @@
     <findStrings>
       <find>Roaste</find>
       <find>,</find>
+      <find>Mashed</find>
     </findStrings>
     <replaceStrings>
       <replace>;</replace>
@@ -56,6 +51,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/LICENSE.txt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/HTML/index.php" />
       </list>
     </option>
   </component>
@@ -70,6 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,14 +82,12 @@
             <path>
               <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-              <item name="SNACKS" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,6 +137,8 @@
       <workItem from="1567068562111" duration="1566000" />
       <workItem from="1567075719100" duration="34000" />
       <workItem from="1567086232052" duration="1235000" />
+      <workItem from="1567511942827" duration="261000" />
+      <workItem from="1567597936371" duration="2896000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -227,17 +224,31 @@
       <option name="project" value="LOCAL" />
       <updated>1567143860708</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Modified name of food (Mashed Potatoes -&gt; Mashed Potatoes With Sprinkled Parsley).">
+      <created>1567512143682</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1567512143682</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Modified name of food (Mashed Potatoes -&gt; Mashed Potatoes With Sprinkled Parsley).">
+      <created>1567512170564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567512170564</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15996000" />
+    <option name="totallyTimeSpent" value="19153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,13 +287,27 @@
     <MESSAGE value="Added new types of foods (Chrup Paki With Salt)" />
     <MESSAGE value="Added new types of foods (7 DAY's Croissant With Spumante Filling; Baked Biscuits With Seeds And Chives; Baked Potato Chips With Yogurt &amp; Herbs; Baked Stuffed Eggplant With Prosciutto And Mushrooms; Barbeque Drumsticks; Barbeque Sauce; Barbeque Wings; Bee Honey Cake Sheets; Carp Roe Salad; Chicken Fajitas; Chipicao Croissant With Cocoa Filling; Cocoa Wafers Cubes; Crepes With Sweet Urda; Lamaita Cake; Masala Ragu Sauce; Oreo Ice Cream Cone; Oreo Ice Cream Sandwich; Pene Ragu; Pene With Masala Ragu; Pita Bread; Pom-Bar With Cheese; Potato Chips With Dill; Prajitura Desteapta With Vanilla; Riffled Potato Chips With Cheese; Riffled Potato Chips With Sourcream &amp; Onion; Salted Cheese With Herbs; Scrambled Eggs With Salami; Seasoned Grilled Pork; Spinach And Ricotta Tortelloni In Tomato Sauce; Spinach And Ricotta Tortelloni In Tomato Sauce Sprinkled With Cheese)" />
     <MESSAGE value="Added new types of foods (Assorted Salad With Yellow Cherry Tomatoes; Baked Chicken Schnitzel With Basil; Creamy Ranch Chicken Pasta; Cremes; Kinder Ice Cream Sandwich; Mortadella Bologna IGP With Pistachios; Snickers Ice Cream)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Assorted Salad With Yellow Cherry Tomatoes; Baked Chicken Schnitzel With Basil; Creamy Ranch Chicken Pasta; Cremes; Kinder Ice Cream Sandwich; Mortadella Bologna IGP With Pistachios; Snickers Ice Cream)" />
+    <MESSAGE value="Modified name of food (Mashed Potatoes -&gt; Mashed Potatoes With Sprinkled Parsley)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified name of food (Mashed Potatoes -&gt; Mashed Potatoes With Sprinkled Parsley)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FOOD/MASHED POTATOES WITH SPRINKLED PARSLEY/01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="3" column="2702" selection-start-line="3" selection-start-column="2702" selection-end-line="3" selection-end-column="2702" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -293,13 +318,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/HTML/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="105" selection-start-line="29" selection-start-column="105" selection-end-line="29" selection-end-column="105" />
+          <folding>
+            <element signature="e#317#345#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
