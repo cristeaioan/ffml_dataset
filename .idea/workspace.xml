@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/generator.php" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/generator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="912">
-                <caret line="26" column="219" lean-forward="true" selection-start-line="26" selection-start-column="219" selection-end-line="26" selection-end-column="219" />
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,6 +53,7 @@
         <option value="$PROJECT_DIR$/LICENSE.txt" />
         <option value="$PROJECT_DIR$/HTML/index.php" />
         <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/HTML/generator.php" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -66,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,20 +76,11 @@
               <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="food_database" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,6 +133,9 @@
       <workItem from="1567511942827" duration="261000" />
       <workItem from="1567597936371" duration="3081000" />
       <workItem from="1568016032720" duration="1604000" />
+      <workItem from="1568265960840" duration="257000" />
+      <workItem from="1568375890748" duration="897000" />
+      <workItem from="1568633650324" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -253,17 +249,24 @@
       <option name="project" value="LOCAL" />
       <updated>1568017790465</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added new types of foods (7 Day's Croissant With Oreo Cream Filling; Baked Rice Pudding; Baked Trout Fish; Cooked Couscous With Dill; Expanded Chips With Sour Cream And Dill; Flips Puffs With Roasted &amp; Salted Peanuts; Honey Milk Burger; Spicy Baked Hake).">
+      <created>1568266205121</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568266205121</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20942000" />
+    <option name="totallyTimeSpent" value="22343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,7 +308,8 @@
     <MESSAGE value="Modified name of food (Mashed Potatoes -&gt; Mashed Potatoes With Sprinkled Parsley)." />
     <MESSAGE value="HTML" />
     <MESSAGE value="Added new types of foods (Big Croissant With Strawberry Filling; Butter Cream Sandwitch With Pork Loin And Tomatoes; Chilli Potato Chips; Chili Potato Chips; Crepes With Jam; Fried Bread Slice Coated In Egg; Fried Chicken Schnitzel; Fried Potatoes With Garlic; Garlic Sauce; Grilled Pork Meat Burger With Tomatoes And Mayonnaise; Magura Mini Cake With Milk; Mars Ice Cream; Mashed Potatoes; Milk Filled Candies; Oreo Biscuits Covered With White Chocolate; Pistachio Crusted Pork Moss With Mashed Potatoes And Red Grapes Sauce; Plum Cake; Polar Vanilla Ice Cream Sandwich; Ridged Potato Chips With Sourcream And Paprika; Ti-Tac With Strawberry And Mint; Turkey Breast With Peach Sauce; Twix Ice Cream; Veal Goulash)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Big Croissant With Strawberry Filling; Butter Cream Sandwitch With Pork Loin And Tomatoes; Chilli Potato Chips; Chili Potato Chips; Crepes With Jam; Fried Bread Slice Coated In Egg; Fried Chicken Schnitzel; Fried Potatoes With Garlic; Garlic Sauce; Grilled Pork Meat Burger With Tomatoes And Mayonnaise; Magura Mini Cake With Milk; Mars Ice Cream; Mashed Potatoes; Milk Filled Candies; Oreo Biscuits Covered With White Chocolate; Pistachio Crusted Pork Moss With Mashed Potatoes And Red Grapes Sauce; Plum Cake; Polar Vanilla Ice Cream Sandwich; Ridged Potato Chips With Sourcream And Paprika; Ti-Tac With Strawberry And Mint; Turkey Breast With Peach Sauce; Twix Ice Cream; Veal Goulash)." />
+    <MESSAGE value="Added new types of foods (7 Day's Croissant With Oreo Cream Filling; Baked Rice Pudding; Baked Trout Fish; Cooked Couscous With Dill; Expanded Chips With Sour Cream And Dill; Flips Puffs With Roasted &amp; Salted Peanuts; Honey Milk Burger; Spicy Baked Hake)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (7 Day's Croissant With Oreo Cream Filling; Baked Rice Pudding; Baked Trout Fish; Cooked Couscous With Dill; Expanded Chips With Sour Cream And Dill; Flips Puffs With Roasted &amp; Salted Peanuts; Honey Milk Burger; Spicy Baked Hake)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -322,16 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/generator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#317#345#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,11 +913,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="912">
-            <caret line="26" column="219" lean-forward="true" selection-start-line="26" selection-start-column="219" selection-end-line="26" selection-end-column="219" />
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
