@@ -2,53 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BROWN MUSHROOMS WITH BUTTER AND DILL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BROWN MUSHROOMS WITH BUTTER AND DILL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BROWN MUSHROOMS WITH BUTTER AND DILL/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BROWN MUSHROOMS WITH BUTTER AND DILL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CARROTS WITH DILL BUTTER/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CARROTS WITH DILL BUTTER/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CARROTS WITH DILL BUTTER/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED CARROTS WITH DILL BUTTER/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED SLICED POTATOES WITH BUTTER AND DILL/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED SLICED POTATOES WITH BUTTER AND DILL/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED SLICED POTATOES WITH BUTTER AND DILL/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED SLICED POTATOES WITH BUTTER AND DILL/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BEEF BURGER WITH CHEDDAR, SALAD, TOMATOES, ONION, FRIES AND BARBEQUE SAUCE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BEEF BURGER WITH CHEDDAR, SALAD, TOMATOES, ONION, FRIES AND BARBEQUE SAUCE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BEEF BURGER WITH CHEDDAR, SALAD, TOMATOES, ONION, FRIES AND BARBEQUE SAUCE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BEEF BURGER WITH CHEDDAR, SALAD, TOMATOES, ONION, FRIES AND BARBEQUE SAUCE/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BEEF BURGER WITH CHEDDAR, SALAD, TOMATOES, ONION, FRIES AND BARBEQUE SAUCE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH COCONUT/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH COCONUT/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH COCONUT/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH COCONUT/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH WALNUTS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH WALNUTS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH WALNUTS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CHOCOLATE CAKE WITH WALNUTS/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CRANBERRY COOKIES WITH WHITE CHOCOLATE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CRANBERRY COOKIES WITH WHITE CHOCOLATE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CRANBERRY COOKIES WITH WHITE CHOCOLATE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/CRANBERRY COOKIES WITH WHITE CHOCOLATE/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MINT AND MANGO-PINEAPPLE CHOCOLATE FLAVOUR/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MINT AND MANGO-PINEAPPLE CHOCOLATE FLAVOUR/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MINT AND MANGO-PINEAPPLE CHOCOLATE FLAVOUR/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MINT AND MANGO-PINEAPPLE CHOCOLATE FLAVOUR/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/MINT AND MANGO-PINEAPPLE CHOCOLATE FLAVOUR/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/QUINCE JAM WITH CINNAMON/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/QUINCE JAM WITH CINNAMON/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/QUINCE JAM WITH CINNAMON/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/QUINCE JAM WITH CINNAMON/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/QUINCE JAM WITH CINNAMON/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED MARINATED PORK MEAT/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED MARINATED PORK MEAT/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED MARINATED PORK MEAT/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/GRILLED MARINATED PORK MEAT/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MEXICAN WHITE RICE WITH VEGETABLES/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MEXICAN WHITE RICE WITH VEGETABLES/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MEXICAN WHITE RICE WITH VEGETABLES/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/MEXICAN WHITE RICE WITH VEGETABLES/Thumbs.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -70,7 +23,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="432">
-                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                <caret line="24" column="275" selection-start-line="24" selection-start-column="275" selection-end-line="24" selection-end-column="275" />
               </first_editor>
               <second_editor />
             </state>
@@ -118,7 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,6 +82,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +138,8 @@
       <workItem from="1568265960840" duration="257000" />
       <workItem from="1568375890748" duration="897000" />
       <workItem from="1568633650324" duration="490000" />
-      <workItem from="1568728034264" duration="1027000" />
+      <workItem from="1568728034264" duration="1187000" />
+      <workItem from="1569332014484" duration="257000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -313,17 +267,24 @@
       <option name="project" value="LOCAL" />
       <updated>1568634119945</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added new types of foods (Baked Brown Mushrooms With Butter And Dill; Baked Carrots With Dill And Butter; Baked Sliced Potatoes With Butter And Dill; Beef Burger With Cheddar, Salad; Tomatoes; Onions; Fries And Barbeque Sauce; Chocolate Cake With Coconut; Chocolate Cake With Walnuts; Cranberry Cookies With White Chocolate; Grilled Marinated Pork Meat; Mexican White Rice With Vegetables; Mint And Mango-Pineapple Chocolate Flavour; Quince Jam With Cinnamon).">
+      <created>1568785675374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568785675374</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23613000" />
+    <option name="totallyTimeSpent" value="24030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,7 +328,8 @@
     <MESSAGE value="Added new types of foods (Big Croissant With Strawberry Filling; Butter Cream Sandwitch With Pork Loin And Tomatoes; Chilli Potato Chips; Chili Potato Chips; Crepes With Jam; Fried Bread Slice Coated In Egg; Fried Chicken Schnitzel; Fried Potatoes With Garlic; Garlic Sauce; Grilled Pork Meat Burger With Tomatoes And Mayonnaise; Magura Mini Cake With Milk; Mars Ice Cream; Mashed Potatoes; Milk Filled Candies; Oreo Biscuits Covered With White Chocolate; Pistachio Crusted Pork Moss With Mashed Potatoes And Red Grapes Sauce; Plum Cake; Polar Vanilla Ice Cream Sandwich; Ridged Potato Chips With Sourcream And Paprika; Ti-Tac With Strawberry And Mint; Turkey Breast With Peach Sauce; Twix Ice Cream; Veal Goulash)." />
     <MESSAGE value="Added new types of foods (7 Day's Croissant With Oreo Cream Filling; Baked Rice Pudding; Baked Trout Fish; Cooked Couscous With Dill; Expanded Chips With Sour Cream And Dill; Flips Puffs With Roasted &amp; Salted Peanuts; Honey Milk Burger; Spicy Baked Hake)." />
     <MESSAGE value="Added new types of foods (Bubble Mint Gum; Cheese; Choco Balls Cereals; Danish Cookies; Danish Cookies With Sugar; Eukaliptus Menthol Bonbons; Ferrero-Yougurette Chocolate bar Filled With Strawberry Yogurt; Fresh Garden Salad; Homemade Chili Jam; Mentos Mint; Milka Alpin Milk Chocolate Bar; Milka Bubbly White Aerated Chocolate Bar; Mixed Fruits Bubble Gum; Pork Meat Pate; Raffaelo balls; Simple Croutons; Spicy Pineapple Sauce; Sugus Milk Toffee; Wholegrain Baguette With Flax Seeds; Zacusca With Eggplant)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Bubble Mint Gum; Cheese; Choco Balls Cereals; Danish Cookies; Danish Cookies With Sugar; Eukaliptus Menthol Bonbons; Ferrero-Yougurette Chocolate bar Filled With Strawberry Yogurt; Fresh Garden Salad; Homemade Chili Jam; Mentos Mint; Milka Alpin Milk Chocolate Bar; Milka Bubbly White Aerated Chocolate Bar; Mixed Fruits Bubble Gum; Pork Meat Pate; Raffaelo balls; Simple Croutons; Spicy Pineapple Sauce; Sugus Milk Toffee; Wholegrain Baguette With Flax Seeds; Zacusca With Eggplant)." />
+    <MESSAGE value="Added new types of foods (Baked Brown Mushrooms With Butter And Dill; Baked Carrots With Dill And Butter; Baked Sliced Potatoes With Butter And Dill; Beef Burger With Cheddar, Salad; Tomatoes; Onions; Fries And Barbeque Sauce; Chocolate Cake With Coconut; Chocolate Cake With Walnuts; Cranberry Cookies With White Chocolate; Grilled Marinated Pork Meat; Mexican White Rice With Vegetables; Mint And Mango-Pineapple Chocolate Flavour; Quince Jam With Cinnamon)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Baked Brown Mushrooms With Butter And Dill; Baked Carrots With Dill And Butter; Baked Sliced Potatoes With Butter And Dill; Beef Burger With Cheddar, Salad; Tomatoes; Onions; Fries And Barbeque Sauce; Chocolate Cake With Coconut; Chocolate Cake With Walnuts; Cranberry Cookies With White Chocolate; Grilled Marinated Pork Meat; Mexican White Rice With Vegetables; Mint And Mango-Pineapple Chocolate Flavour; Quince Jam With Cinnamon)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -982,7 +944,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <caret line="24" column="275" selection-start-line="24" selection-start-column="275" selection-end-line="24" selection-end-column="275" />
           </first_editor>
           <second_editor />
         </state>
