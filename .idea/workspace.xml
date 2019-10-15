@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (Cartabos (Traditional Romanian Transilvania Big Sausage); Cornette Caramel Ice Cream; Dark Chocolate With Brandy And Oranges Cream; Emmental Cheese In Slices; Fagaras Chocolate Bar; Fried Potato Wedges; KFC Crispy Hot Dog; Long Chips Paprika; Magura Mini-Roulade Filled With Berries And Cheesecake; Red Beef Burger; Red Pork Burger; Riffled Potato Chips With Sea Salt; Turkey Ham).">
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BEANS WITH SMOKED PORK KNUCKLE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BEANS WITH SMOKED PORK KNUCKLE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/BAKED BEANS WITH SMOKED PORK KNUCKLE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/COCOA DOUBLE BISCUITS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/COCOA DOUBLE BISCUITS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/COCOA DOUBLE BISCUITS/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RASPBERRY JAFFA CAKE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RASPBERRY JAFFA CAKE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/DESERTS/RASPBERRY JAFFA CAKE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/POTATO STEW WITH SMOKED PORK/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/POTATO STEW WITH SMOKED PORK/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/POTATO STEW WITH SMOKED PORK/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COVERED PUFFS WITH CHOCOLATE/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COVERED PUFFS WITH CHOCOLATE/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/COVERED PUFFS WITH CHOCOLATE/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/FRIED PEANUT WITH PAPRIKA/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/FRIED PEANUT WITH PAPRIKA/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/FRIED PEANUT WITH PAPRIKA/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/HOMEMADE CRACKERS WITH SALTED CHEESE AND CUMIN SEEDS/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/HOMEMADE CRACKERS WITH SALTED CHEESE AND CUMIN SEEDS/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FOOD/SNACKS/HOMEMADE CRACKERS WITH SALTED CHEESE AND CUMIN SEEDS/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1fafa16b-6693-4e10-8fdd-d29e5799f7f5" name="Default Changelist" comment="Added new types of foods (Baked Beans With Smoked Pork Knuckle; Cocoa Double Biscuits; Covered Puffs With Chocolate; Fried Peanut With Paprika; Homemade Crackers With Salted Cheese And Cumin Seeds; Potato Stew With Smoked Pork; Raspberry Jaffa Cake)." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="24">
-                <caret line="3" column="8314" selection-start-line="3" selection-start-column="8314" selection-end-line="3" selection-end-column="8314" />
+              <first_editor relative-caret-position="768">
+                <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -93,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +161,7 @@
       <workItem from="1570175953899" duration="284000" />
       <workItem from="1570179106418" duration="1927000" />
       <workItem from="1570425365964" duration="16000" />
+      <workItem from="1570627891781" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -354,16 +331,24 @@
       <option name="project" value="LOCAL" />
       <updated>1570176217056</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added new types of foods (Baked Beans With Smoked Pork Knuckle; Cocoa Double Biscuits; Covered Puffs With Chocolate; Fried Peanut With Paprika; Homemade Crackers With Salted Cheese And Cumin Seeds; Potato Stew With Smoked Pork; Raspberry Jaffa Cake).">
+      <created>1570627910829</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1570627910829</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29098000" />
+    <option name="totallyTimeSpent" value="29148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,7 +398,8 @@
     <MESSAGE value="Added new types of foods (Boeuf Salad; Chocolate Cake With Coconut Cream; Chocolate Candy Filled With Cherry Cream; Chocolate Candy Filled With Weith Lemon Cream; Chocolate Candy Filled With Strawberry; Whipped Cream; Crispy Peanuts Coated With Paprika; Fried Cashew Nuts With Salt; Game Meat Goulash; Homemade Coconut White Chocolate; Honey Roasted Peanuts; Lettuce Soup; Oven Baked Chips With Veggie Barbeque Flavour; Ridged Potato Chip With Chilli; Sarmale (Pork Meat); Spanish Madeleine; Verdens Beste Cake)." />
     <MESSAGE value="Added new types of foods (Baked Tortiglioni With Mushrooms, Parmesan, Bechamel Sauce; KFC Dipping Fries; KFC Real Burger; Basked Pastry; Dumplings Pastry; Flower Log Pastry; Pastry Pouches; Pastry Twist; Picnic Basked Pastry; Rectangular Pastry; Triangle Pastry; Soft Cake With Meringue On Top; Sour Cherry Jame; Turkey And Chicken Liver Pate)." />
     <MESSAGE value="Added new types of foods (Cartabos (Traditional Romanian Transilvania Big Sausage); Cornette Caramel Ice Cream; Dark Chocolate With Brandy And Oranges Cream; Emmental Cheese In Slices; Fagaras Chocolate Bar; Fried Potato Wedges; KFC Crispy Hot Dog; Long Chips Paprika; Magura Mini-Roulade Filled With Berries And Cheesecake; Red Beef Burger; Red Pork Burger; Riffled Potato Chips With Sea Salt; Turkey Ham)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Cartabos (Traditional Romanian Transilvania Big Sausage); Cornette Caramel Ice Cream; Dark Chocolate With Brandy And Oranges Cream; Emmental Cheese In Slices; Fagaras Chocolate Bar; Fried Potato Wedges; KFC Crispy Hot Dog; Long Chips Paprika; Magura Mini-Roulade Filled With Berries And Cheesecake; Red Beef Burger; Red Pork Burger; Riffled Potato Chips With Sea Salt; Turkey Ham)." />
+    <MESSAGE value="Added new types of foods (Baked Beans With Smoked Pork Knuckle; Cocoa Double Biscuits; Covered Puffs With Chocolate; Fried Peanut With Paprika; Homemade Crackers With Salted Cheese And Cumin Seeds; Potato Stew With Smoked Pork; Raspberry Jaffa Cake)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Baked Beans With Smoked Pork Knuckle; Cocoa Double Biscuits; Covered Puffs With Chocolate; Fried Peanut With Paprika; Homemade Crackers With Salted Cheese And Cumin Seeds; Potato Stew With Smoked Pork; Raspberry Jaffa Cake)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -1030,8 +1016,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
-            <caret line="3" column="8314" selection-start-line="3" selection-start-column="8314" selection-end-line="3" selection-end-column="8314" />
+          <first_editor relative-caret-position="768">
+            <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
