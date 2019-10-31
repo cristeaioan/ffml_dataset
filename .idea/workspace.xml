@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="3" column="4195" selection-start-line="3" selection-start-column="4195" selection-end-line="3" selection-end-column="4195" />
+              <first_editor relative-caret-position="660">
+                <caret line="24" column="638" selection-start-line="24" selection-start-column="638" selection-end-line="24" selection-end-column="638" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,12 +84,6 @@
               <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="food_database" type="462c0819:PsiDirectoryNode" />
               <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food_database" type="462c0819:PsiDirectoryNode" />
-              <item name="FOOD" type="462c0819:PsiDirectoryNode" />
-              <item name="ADANA KEBAP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="food_database" type="b2602c69:ProjectViewProjectNode" />
@@ -168,7 +162,8 @@
       <workItem from="1570627891781" duration="50000" />
       <workItem from="1571117596249" duration="622000" />
       <workItem from="1572007986933" duration="674000" />
-      <workItem from="1572356473504" duration="256000" />
+      <workItem from="1572356473504" duration="522000" />
+      <workItem from="1572527482314" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="First batch of photos">
       <created>1563373113653</created>
@@ -359,17 +354,24 @@
       <option name="project" value="LOCAL" />
       <updated>1572008644951</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added new types of foods (Buttered Spicy Mexican Vegetables; Cloud Egg; Donuts With Vanilla Sugar Powder; Farfalle With Salami Carbonara; Fried Beaten Egg White; Gogosi (Romanian Donuts); Kitkat Chocolate; Roasted And Salted Corn; Simple Donuts).">
+      <created>1572356962499</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1572356962499</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30700000" />
+    <option name="totallyTimeSpent" value="31663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="232" width="1936" height="1186" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24733475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -396,7 +398,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Cropped the images &amp; modified the names of the files" />
     <MESSAGE value="Cropped the images &amp; renamed the files" />
     <MESSAGE value="Added new types of foods (Bean Soup With Smoked Pork Meat, Break Pakora, Curry Rice With Yoghurt, Dosa With Curry Mashed Potatoes, Grilled Turkey With Grape Sauce, Indian Curry, Masala Dosa, Milkshake Desert, Pakora, Plum Pie, Roasted Pig, Samosa With Vegetables, Steam Mussels In White Wine Broth) and created a license" />
     <MESSAGE value="Updated the year on the license" />
@@ -421,7 +422,8 @@
     <MESSAGE value="Added new types of foods (Baked Beans With Smoked Pork Knuckle; Cocoa Double Biscuits; Covered Puffs With Chocolate; Fried Peanut With Paprika; Homemade Crackers With Salted Cheese And Cumin Seeds; Potato Stew With Smoked Pork; Raspberry Jaffa Cake)." />
     <MESSAGE value="Added new types of foods (Baked Potato; Biscuits With Butter (Tedi); Black Tiger Shrimps In Butter Sauce; Coquelette Chicken With Mushroom Sauce And Mashed Potatoes; Duo Chocolat; Grilled Hot Dog; Grilled Turkey Breast With Peach Sauce; Herbs Crusted Pork Moss With Mashed Potato And Wine Sauce; Raspberry And Chocolate Ice Cream Dessert; Raspberry Ice Cream Dessert; Strawberry Cheesecake; Whipped Cream Ice Cream)." />
     <MESSAGE value="Added new types of foods (Bamati Rice With Mushrooms; Beef Burger With Onion Jam; Caramel Filled Churros; Chicken Cubes With Sweet And Sour Sauce; Chocolate Filled Churros; Homemade Pressed Cheese; Leber Paste; Mutton Skewers; Naked Chicken Taco; Pork Chop With Bacon And Pleurotus With Chimchuri Salsa And Baked Potatoes; Pork Sausages; Roasted Coconut Covered Caramel Wafer Biscuit; Sandwich Wholegrain Baguette With Flax Seeds, Kaizer And Butter; Tagliatelle Alla Carbonara; Thousand Islands Sauce)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Bamati Rice With Mushrooms; Beef Burger With Onion Jam; Caramel Filled Churros; Chicken Cubes With Sweet And Sour Sauce; Chocolate Filled Churros; Homemade Pressed Cheese; Leber Paste; Mutton Skewers; Naked Chicken Taco; Pork Chop With Bacon And Pleurotus With Chimchuri Salsa And Baked Potatoes; Pork Sausages; Roasted Coconut Covered Caramel Wafer Biscuit; Sandwich Wholegrain Baguette With Flax Seeds, Kaizer And Butter; Tagliatelle Alla Carbonara; Thousand Islands Sauce)." />
+    <MESSAGE value="Added new types of foods (Buttered Spicy Mexican Vegetables; Cloud Egg; Donuts With Vanilla Sugar Powder; Farfalle With Salami Carbonara; Fried Beaten Egg White; Gogosi (Romanian Donuts); Kitkat Chocolate; Roasted And Salted Corn; Simple Donuts)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new types of foods (Buttered Spicy Mexican Vegetables; Cloud Egg; Donuts With Vanilla Sugar Powder; Farfalle With Salami Carbonara; Fried Beaten Egg White; Gogosi (Romanian Donuts); Kitkat Chocolate; Roasted And Salted Corn; Simple Donuts)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
@@ -1038,8 +1040,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="3" column="4195" selection-start-line="3" selection-start-column="4195" selection-end-line="3" selection-end-column="4195" />
+          <first_editor relative-caret-position="660">
+            <caret line="24" column="638" selection-start-line="24" selection-start-column="638" selection-end-line="24" selection-end-column="638" />
           </first_editor>
           <second_editor />
         </state>
